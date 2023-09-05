@@ -33,7 +33,7 @@
             </div>
             <div class="result">
                 <?php
-                 echo "$ms m/s após convertido será " .number_format($kmh, 2,",")." km/H";
+                 echo "$ms m/s após convertido será " .number_format($kmh, 1,",")." km/H</strong>";
                 ?>
             </div>
         </div>
